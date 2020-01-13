@@ -1,0 +1,5 @@
+
+.icon-plus:before { content: '\e800'; } /* '' */
+.icon-less:before { content: '\e801'; } /* '' */
+.icon-share:before { content: '\e802'; } /* '' */
+.icon-whatsapp:before { content: '\f232'; } /* '' */
